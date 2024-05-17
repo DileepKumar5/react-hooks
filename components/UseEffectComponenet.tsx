@@ -18,6 +18,7 @@ const UseEffectComponenet = () => {
     <div className='font-bold  text-5xl'>
        {/* <Component1/>
        <Component2/> */}
+       {/* <Component3/> */}
        <Component4/>
 
       
