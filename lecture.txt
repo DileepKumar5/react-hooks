@@ -1,0 +1,28 @@
+React hooks = function
+
+usestate
+useeffect
+usecontext
+usecallback
+useTransition
+useMemo
+useRef
+
+npm 
+yarn
+pnpm
+
+
+pnpm dlx create-next-app@latest ./
+
+npm run dev
+
+install shadcn
+
+
+()=> {
+
+use effect -> context se bahir like fetch the data from database
+
+
+https://jsonplaceholder.typicode.com/
